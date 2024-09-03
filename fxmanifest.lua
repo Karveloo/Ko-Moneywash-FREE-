@@ -9,11 +9,11 @@ author 'Karvelooo'
 version '1.0.0'
 
 client_scripts {
-    'Ko_pesulat_cl/cl.lua'
+    'cl.lua'
 }
 
 server_scripts {
-    'Ko_pesulat_sv/sv.lua'
+    'sv.lua'
 }
 shared_scripts {
     '@ox_lib/init.lua',
