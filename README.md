@@ -1,4 +1,4 @@
-# ko-moneywash
+# Ko-moneywash
  Ko-Moneywash fivem esx
  lot to change at Config.lua
  Animations
